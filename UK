@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml"
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-1-uk.png" group-title="UNITED KINGDOM",ITV 1 UK
+https://jasonnguyen2606-dproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzUwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-2-uk.png" group-title="UNITED KINGDOM",ITV 2 UK
+https://jasonnguyen2606-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNTEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-3-uk.png" group-title="UNITED KINGDOM",ITV 3 UK
+https://jasonnguyen2606-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNTIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-4-uk.png" group-title="UNITED KINGDOM",ITV 4 UK
+https://jasonnguyen2606-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNTMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="UNITED KINGDOM",LaLigaTV UK
+https://jasonnguyen2606-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/liverpool-tv.png" group-title="UNITED KINGDOM",Liverpool TV (LFC TV)
+https://jasonnguyen2606-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png" group-title="UNITED KINGDOM",MTV UK
+https://jasonnguyen2606-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNjcvbW9uby5tM3U4.m3u8
