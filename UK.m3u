@@ -9,7 +9,7 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 SD
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Entertainment",ITV3 SD
+#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="General",ITV3 SD
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 #EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="General",ITV4 SD
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
