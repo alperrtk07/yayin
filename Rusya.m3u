@@ -13,10 +13,14 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://i.imgur.com/ilUzAeb.png",STS
 https://streaming.goodstream.cyou/live/296.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png",STS Love
+http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1 tvg-id="Pyanitsa.ru@SD" tvg-logo="https://i.imgur.com/UfmlXxe.png",Pyanitsa!
 https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://i.imgur.com/4PAcpfM.png",Zvezda
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru@SD" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Zvezda Plus
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://i.imgur.com/AqWaJT8.png",Mir
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Millet.ru@SD" tvg-logo="https://i.imgur.com/hUjLRLy.png",Millet
@@ -35,8 +39,12 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-logo="https://i.imgur.com/CwhmJby.png",RBK-TV
 http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1 tvg-id="UnknownRussia.ru@SD" tvg-logo="https://i.imgur.com/W7ste2f.png",Unknown Russia
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru@SD" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
 http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:-1 tvg-id="RUTV.ru@SD" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png",Muz-TV
 https://streaming.goodstream.cyou/live/618.m3u8
 #EXTINF:-1 tvg-id="Karusel.ru@HD" tvg-logo="https://i.imgur.com/4wmnx1W.png",Karusel
