@@ -5,8 +5,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png",Trace Urban
 https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ClubMTVEurope.uk@SD" tvg-logo="https://i.imgur.com/FD6eQI3.png",Club MTV
-https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-logo="https://i.imgur.com/HimuPPb.png",Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
 #EXTINF:-1 tvg-id="DeluxeLounge.de@SD" tvg-logo="https://i.imgur.com/pgCA35z.png",Deluxe Lounge
