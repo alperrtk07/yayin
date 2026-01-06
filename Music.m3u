@@ -13,20 +13,12 @@ https://jmp2.uk/stvp-CHAJ0500413A
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="BelRTL.be@SD" tvg-logo="https://i.imgur.com/0DUprIW.png",Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="EskaHitynaCzasie.pl@FAST" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/e9cF1_Eska.png/Eska.png",Eska Hity na Czasie
-https://s-pl-01.mediatool.tv/playout/espl-abr/index.m3u8
-#EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl@FAST" tvg-logo="https://i.imgur.com/3hrxvdG.png",Eska Rock Dobrze Rockuje
-https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="FunRadio.fr@SD" tvg-logo="https://i.imgur.com/wgxuYsQ.png",Fun Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
-#EXTINF:-1 tvg-id="iTVAfrobeatsMusic.ca@HD" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png",iTV Afrobeats Music
-https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTVTurkishMusic.ca@HD" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png",iTV Turkish Music
-https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png",iTV Urban Music
-https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" tvg-name="V2Beat TV",V2Beat TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="NRG91.gr@SD" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG 91
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Damar.tr@SD" tvg-logo="https://i.imgur.com/FSvoyqY.png",Number 1 Rap
@@ -59,23 +51,33 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="QMusic.nl@SD" tvg-logo="https://i.imgur.com/J09lNZK.png",Q-Music
 https://stream.qmusic.nl/qmusic/videohls.m3u8
+#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png",The Voice TV
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",Ocko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="OckoStar.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/512px-%C3%93%C4%8Dko_Star_logo.png",Ocko Star
+https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-name="1Mus",1Mus 
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" tvg-name="V2Beat TV",V2Beat TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",Vevo 2K
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",Vevo Country
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png",Vevo Pop
 https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="4FunTV.pl@SD" tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png",The Voice TV
-https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="iTVAfrobeatsMusic.ca@HD" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png",iTV Afrobeats Music
+https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="iTVTurkishMusic.ca@HD" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png",iTV Turkish Music
+https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png",iTV Urban Music
+https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StingrayiConcerts.ca@SD" tvg-logo="https://i.imgur.com/GKc7RFz.png",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="EskaHitynaCzasie.pl@FAST" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/e9cF1_Eska.png/Eska.png",Eska Hity na Czasie
+https://s-pl-01.mediatool.tv/playout/espl-abr/index.m3u8
+#EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl@FAST" tvg-logo="https://i.imgur.com/3hrxvdG.png",Eska Rock Dobrze Rockuje
+https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
