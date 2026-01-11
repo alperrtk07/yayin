@@ -16,8 +16,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Millet.ru@SD" tvg-logo="https://i.imgur.com/hUjLRLy.png",Millet
 https://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png",TNT
-http://95.66.188.74/TNT_HD/mono.m3u8
 https://streaming.goodstream.icu/live/38.m3u8
+http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
 http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png",PRNK TV
