@@ -9,6 +9,8 @@ http://95.66.188.74/OTR/mono.m3u8
 http://95.66.188.74/RenTV/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png",Pyatyy Kanal
 http://95.66.188.74/5kanal/mono.m3u8
+#EXTINF:-1 tvg-id="domashniy.ru@SD" tvg-logo="https://i.imgur.com/XVRwgom.png",Domashniy
+http://93.170.254.17/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://i.imgur.com/AqWaJT8.png",Mir
