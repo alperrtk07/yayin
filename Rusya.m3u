@@ -20,8 +20,6 @@ https://streaming.goodstream.icu/live/38.m3u8
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
 http://hls2.hd-tv.club/2_super/index.m3u8
-#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png",PRNK TV
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="TVTsentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TV_Tsentr_Logo.svg/1200px-TV_Tsentr_Logo.svg.png",TV Tsentr
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Pyanitsa.ru@SD" tvg-logo="https://i.imgur.com/UfmlXxe.png",Pyanitsa!
@@ -29,6 +27,8 @@ https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://i.imgur.com/ilUzAeb.png",STS
 http://94.230.128.107:8080/CTC/index.m3u8
 https://streaming.goodstream.icu/live/296.m3u8
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png",PRNK TV
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-id="tolk" tvg-logo="https://iptvx.one/picons/tolk.png",Тolk
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",Russia-24
