@@ -1,9 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="247BoxTV.ir@SD" tvg-logo="https://i.imgur.com/t5AUthL.png" group-title="Entertainment",247 Box TV SD
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gg.hls2.xyz/live/irib-tv1/chunks.m3u8?nimblesessionid=100537029
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/3e/PMC_Music_Logo.png" ,pmc
-https://gg.hls2.xyz/live/IR%20-%20PMC/chunks.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com/
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2tqA7fkuFWgEUXJ9BlSyPiwwXsLr-5i2Dw&s" ,t2
-https://gg.hls2.xyz/live/irib-tv1/chunks.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/Iran-International.svg",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/bbc-farsi.svg",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/radio-farda.svg",Radio Farda
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/manoto.svg",Manoto
+https://gg.hls2.xyz/live/Manoto/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/irib/irib-irinn.svg",IRINN
+https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/kanal-jadid.svg",Kanal Jadid
+https://gg.hls2.xyz/live/AP%20Kanal%20e%20Jadid%20HD/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://www.aparatchi.com/images/chanells-logo/voa.svg",VOA Persian
+
