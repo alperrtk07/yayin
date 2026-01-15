@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="247BoxTV.ir@SD" tvg-logo="https://i.imgur.com/t5AUthL.png" group-title="Entertainment",247 Box TV SD
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://gg.hls2.xyz/live/irib-tv1/chunks.m3u8?nimblesessionid=100537029
