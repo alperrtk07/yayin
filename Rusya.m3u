@@ -91,6 +91,10 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/dom-kino.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.skynetconnect.online/live/44.m3u8
+#EXTINF:-1 tvg-name=“Hollywood” tvg-logo="http://live.viks.tv/posts/2019-03/1553193212_hollywood.png”,Hollywood
+#EXTVLCOPT:http-referrer=http://live.viks.tv/576-hollywood.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://s.viks.tv/E3Z_aQUf61g6QXEv4BbOMQ/586/1768590211/index.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png",Mult
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png",Mult i Muzyka
