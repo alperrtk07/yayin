@@ -87,7 +87,7 @@ http://188.237.47.212:6008
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png",Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u
-#EXTINF:-1 tvg-name=“Dom Kino” tvg-logo="https://vits.tv/images/tvstation/russia/dom-kino.png”,Dom Kino
+#EXTINF:-1 tvg-name=“Dom Kino” tvg-logo="https://i.imgur.com/8l7AAyj.png”,Dom Kino
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/dom-kino.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.skynetconnect.online/live/44.m3u8
