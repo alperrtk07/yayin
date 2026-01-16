@@ -25,6 +25,8 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Millet.ru@SD" tvg-logo="https://i.imgur.com/hUjLRLy.png",Millet
 https://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-id="TVTsentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TV_Tsentr_Logo.svg/1200px-TV_Tsentr_Logo.svg.png",TV Tsentr
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=“ТV-3” tvg-logo="https://i.imgur.com/JLAvq8O.png”,ТV-3
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/tv-3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -36,12 +38,10 @@ https://s.viks.tv/qYPg7mK52-ET2TpT7n94dg/584/1768590372/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png",TNT
 https://streaming.goodstream.icu/live/38.m3u8
 http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
-http://hls2.hd-tv.club/2_super/index.m3u8
-#EXTINF:-1 tvg-id="TVTsentr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TV_Tsentr_Logo.svg/1200px-TV_Tsentr_Logo.svg.png",TV Tsentr
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Pyanitsa.ru@SD" tvg-logo="https://i.imgur.com/UfmlXxe.png",Pyanitsa!
 https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
+http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@HD" tvg-logo="https://i.imgur.com/ilUzAeb.png",STS
 http://94.230.128.107:8080/CTC/index.m3u8
 https://streaming.goodstream.icu/live/296.m3u8
