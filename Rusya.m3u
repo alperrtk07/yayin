@@ -3,17 +3,18 @@
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Russia-1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-name="OTR" tvg-logo="https://i.imgur.com/VaWlnjZ.png",OTR 1
+#EXTINF:-1 tvg-name="OTR" tvg-logo="https://i.imgur.com/VaWlnjZ.png",OTR
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/otr.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
+#EXTINF:-1 tvg-name=“REN” tvg-logo="https://i.imgur.com/0Tu5lte.png”,REN TV
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/ren-tv.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1 tvg-name=“Pyatyy” tvg-logo="https://i.imgur.com/KPXMa3U.png”,Pyatyy Kanal
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/5-kanal.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://i.imgur.com/VaWlnjZ.png",OTR
-https://streaming.televizor-24-tochka.ru/live/12.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=televizor24tochka.ru
-http://95.66.188.74/OTR/mono.m3u8
-#EXTINF:-1 tvg-id="rentv.ru@SD" tvg-logo="https://i.imgur.com/0Tu5lte.png",REN TV
-http://95.66.188.74/RenTV/mono.m3u8
-#EXTINF:-1 tvg-id="5kanal.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png",Pyatyy Kanal
-http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD" tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://i.imgur.com/AqWaJT8.png",Mir
