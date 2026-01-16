@@ -34,7 +34,7 @@ https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1 tvg-name=“ Nostalgia” tvg-logo="https://i.imgur.com/YBdBc0J.png”,Nostalgia 
 #EXTVLCOPT:http-referrer=http://live.viks.tv/469-nostalgiya.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://s.viks.tv/qYPg7mK52-ET2TpT7n94dg/584/1768590372/index.m3u8
+https://s.viks.tv/tF_Wo_LYMquX7ZE0S4qKfQ/584/1768615667/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png",TNT
 https://streaming.goodstream.icu/live/38.m3u8
 http://95.66.188.74/TNT_HD/mono.m3u8
@@ -82,19 +82,19 @@ http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1 tvg-name=“Romantichnoe” tvg-logo="https://i.imgur.com/ruacPMS.png”,Romantichnoe
 #EXTVLCOPT:http-referrer=http://live.viks.tv/588-romantichnoe-hd.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://s.viks.tv/w6iFNmAc0cMXR1v12zX5EQ/505/1768590815/index.m3u8
+https://s.viks.tv/wL5poT9VW8MR1-JAyr8E5A/505/1768615700/index.m3u8
 #EXTINF:-1 tvg-name=“Shokiruyushchee” tvg-logo="https://i.imgur.com/UG63hZ0.png”,Shokiruyushchee
 #EXTVLCOPT:http-referrer=http://live.viks.tv/572-shokiruyuschee-hd_1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://s.viks.tv/iMI7bANzdzRR-C8SMs6u1g/169/1768590917/index.m3u8
+https://s.viks.tv/sxOp3gclAly8JjUMbgZLQg/169/1768615717/index.m3u8
 #EXTINF:-1 tvg-name=“Strashnoe” tvg-logo="https://i.imgur.com/VhI688z.png”,Strashnoe
 #EXTVLCOPT:http-referrer=http://live.viks.tv/022512-strashnoe-hd.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://s.viks.tv/zwAYssu58Cyv-5n-7qi5TQ/216/1768593564/index.m3u8
+https://s.viks.tv/kXQhsb84Ue4vEC5vxu7pug/216/1768615735/index.m3u8
 #EXTINF:-1 tvg-name=“Hollywood” tvg-logo="https://i.imgur.com/1j7cT2I.png”,Hollywood
 #EXTVLCOPT:http-referrer=http://live.viks.tv/576-hollywood.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://s.viks.tv/E3Z_aQUf61g6QXEv4BbOMQ/586/1768590211/index.m3u8
+https://s.viks.tv/fvHxKEdP8LDW-vYjyEjcuA/586/1768615632/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
@@ -106,9 +106,9 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png",Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u
 #EXTINF:-1 tvg-name=“Dom Kino” tvg-logo="https://i.imgur.com/j2jDgH9.png”,Dom Kino
-#EXTVLCOPT:http-referrer=http://live.viks.tv/438-dom-kino_19.html
+#EXTVLCOPT:https://televizor24tochka.ru/tv/dom-kino.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://s.viks.tv/JSX90ZIkSPfuVctjoHMZFA/186/1768590728/index.m3u8
+https://streaming.skynetconnect.online/live/44.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png",Mult
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png",Mult i Muzyka
