@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/55RpaF3.png",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/4uTMnPb.png",BBC Persian
+#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/oZhpMvK.png",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/p8j19I6.png",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
@@ -14,8 +14,6 @@ https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8|us
 #EXTINF:-1 group-title="Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",Press TV
 https://gg.hls2.xyz/live/irib-presstv/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 
-
-
 #EXTINF:-1 group-title=Ulusal" tvg-logo="https://i.imgur.com/jzcwzBd.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",IRIB 1
 https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title=Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",IRIB 2
@@ -24,12 +22,6 @@ https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0
 https://gg.hls2.xyz/live/tv3/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title=Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png",IRIB 4
 https://gg.hls2.xyz/live/irib-tv4/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
-
-
-#EXTINF:-1 group-title=Ulusal" tvg-logo="https://i.imgur.com/jzcwzBd.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",IRIB 1
-#EXTINF:-1 group-title=Ulusal" tvg-logo="https://i.imgur.com/jzcwzBd.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",IRIB 1
-
-
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://i.imgur.com/jzcwzBd.png",Persiana Cinema
 https://gg.hls2.xyz/live/AP%20Persiana%20Cinema/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
@@ -49,3 +41,37 @@ https://gg.hls2.xyz/live/AP%20MBC%20Persia%20468P/playlist.m3u8|user-agent=VLC/3
 https://gg.hls2.xyz/live/AP%20iFilm%20Persian/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://i.imgur.com/aV4W0Iv.png",ICC+ TV 
 https://gg.hls2.xyz/live/AP%20ICC%20HD/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/tB1qbjp.png",PMC
+https://gg.hls2.xyz/live/AP%20PMC%20HD/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/0USMHgD.png",Navahang
+https://hls.navahang.live/hls/stream.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/jwZGCaq.png",Radio Javan
+https://gg.hls2.xyz/live/RJTV/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/CPfuTjk.png",Avang Music
+https://hls.avang.live/hls/stream.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/9JKj3IA.png",Persiana Music
+https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/O6BdAVo.png",T2 Tapesh
+https://gg.hls2.xyz/live/T2/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/epwQrhQ.jpeg",iTV Persian Music 
+https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/qoo6H7I.png",Sun Music TV 
+https://hls.sunmusic.live/hls/stream.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png",IRIB Varzesh
+https://gg.hls2.xyz/live/irib-varzesh/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/mQQzrUx.png",Varzish TV
+https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title=Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",IRIB 3
+https://gg.hls2.xyz/live/tv3/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/IXQ873g.png",Persiana Sports 1
+https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/g1rtSdk.png",Persiana Sports 2
+https://gg.hls2.xyz/live/Persiana%20Sports2/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/nmsxser.png",Persiana Sports 3
+https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/4NphJ8W.png",Persiana Sports 4
+https://gg.hls2.xyz/live/Persiana%20Sports4/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title="Spor" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png",GEM Sport 
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Sport/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
