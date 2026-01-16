@@ -15,6 +15,22 @@ https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8|us
 https://gg.hls2.xyz/live/irib-presstv/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 
 
+
+#EXTINF:-1 group-title=Ulusal" tvg-logo="https://i.imgur.com/jzcwzBd.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",IRIB 1
+https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title=Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",IRIB 2
+https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title=Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",IRIB 3
+https://gg.hls2.xyz/live/tv3/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+#EXTINF:-1 group-title=Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png",IRIB 4
+https://gg.hls2.xyz/live/irib-tv4/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
+
+
+#EXTINF:-1 group-title=Ulusal" tvg-logo="https://i.imgur.com/jzcwzBd.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",IRIB 1
+#EXTINF:-1 group-title=Ulusal" tvg-logo="https://i.imgur.com/jzcwzBd.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",IRIB 1
+
+
+
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://i.imgur.com/jzcwzBd.png",Persiana Cinema
 https://gg.hls2.xyz/live/AP%20Persiana%20Cinema/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://i.imgur.com/mc49DUZ.png",Persiana Comedy
