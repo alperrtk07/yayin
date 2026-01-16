@@ -1,5 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=“ERT” tvg-logo="”,ERT
-#EXTVLCOPT:http-referrer=https://www.ert.gr/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8
