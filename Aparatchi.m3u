@@ -54,7 +54,7 @@ https://hls.avang.live/hls/stream.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|refer
 https://gg.hls2.xyz/live/AP%20Persiana%20Music/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/O6BdAVo.png",T2 Tapesh
 https://gg.hls2.xyz/live/T2/playlist.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/epwQrhQ.jpeg",iTV Persian Music 
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png",iTV Persian Music 
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/qoo6H7I.png",Sun Music TV 
 https://hls.sunmusic.live/hls/stream.m3u8|user-agent=VLC/3.0.21 LibVLC/3.0.21|referer=https://aparatchi.com
