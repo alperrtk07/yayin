@@ -87,6 +87,10 @@ https://s.viks.tv/w6iFNmAc0cMXR1v12zX5EQ/505/1768590815/index.m3u8
 #EXTVLCOPT:http-referrer=http://live.viks.tv/572-shokiruyuschee-hd_1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://s.viks.tv/iMI7bANzdzRR-C8SMs6u1g/169/1768590917/index.m3u8
+#EXTINF:-1 tvg-name=“Strashnoe” tvg-logo="https://i.imgur.com/VhI688z.png”,Strashnoe
+#EXTVLCOPT:http-referrer=http://live.viks.tv/022512-strashnoe-hd.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://s.viks.tv/zwAYssu58Cyv-5n-7qi5TQ/216/1768593564/index.m3u8
 #EXTINF:-1 tvg-name=“Hollywood” tvg-logo="https://i.imgur.com/1j7cT2I.png”,Hollywood
 #EXTVLCOPT:http-referrer=http://live.viks.tv/576-hollywood.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
