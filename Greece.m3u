@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT 1 Ⓥ" tvg-logo="https://i.imgur.com/UKbCtC1.png" group-title="Ulusal",ERT 1 Ⓥ
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="Ulusal",ERT 2
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/f2l9bDR.png" group-title="Ulusal",ERT 3
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ert3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK 1 Ⓥ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" group-title="Ulusal",RIK 1 Ⓥ
+https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK 2 Ⓥ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" group-title="Ulusal",RIK 2 Ⓥ
+https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK HD Ⓥ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" group-title="Ulusal",RIK HD Ⓥ
+https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 tvg-id="riksat" tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="Ulusal",RIK Sat
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ant1cy" tvg-name="ANT1 Cyprus" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Ulusal",ANT1 Cyprus
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANT1 Greece" tvg-logo="https://i.imgur.com/ItxKvVS.png" group-title="Ulusal",ANT1 Greece
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist.m3u8
+#EXTINF:-1 tvg-id="sigma" tvg-name="Sigma TV" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Ulusal",Sigma TV
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist_2000.m3u8
+#EXTINF:-1 tvg-id="omega" tvg-name="Omega TV" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png" group-title="Ulusal",Omega TV
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/512px-Makedonia_TV_2023.svg.png" group-title="Ulusal",MAK TV
+https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="alphacy" tvg-name="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" group-title="Ulusal",Alpha Cyprus
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Open TV" tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png" group-title="Ulusal",Open TV
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Skai TV" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="Ulusal",Skai TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/skai.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Ulusal",STAR
+https://livestar.siliconweb.com/media/star4/star4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR International" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Ulusal",STAR International
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/StarInternational.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Channel " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="Ulusal",One Channel 
+https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Ulusal",ERT World
+https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT News" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="Ulusal",ERT News
+https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Action 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Ulusal",Action 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEGA News" tvg-logo="https://i.imgur.com/Z3k7iA0.png" group-title="Ulusal",MEGA News
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" NAFTEMPORIKΙ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/NaftemporikiTV.logo.png" group-title="Ulusal", NAFTEMPORIKΙ TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pro News" tvg-logo="https://i.ibb.co/zGQpM3Y/download-7.png" group-title="Ulusal",Pro News
+https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vouli TV" tvg-logo="https://diavlos-cache.cnt.grnet.gr/app/assets/VouliTV_Logo-Ch6ZlrPn.png" group-title="Ulusal",Vouli TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/vouli.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Best TV" tvg-logo="https://i.imgur.com/AeeeDUc.png" group-title="Ulusal",Best TV
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alert TV" tvg-logo="https://i.imgur.com/xqa87lG.png" group-title="Ulusal",Alert TV
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kontra TV" tvg-logo="https://kontrachannel.gr/images/kontrachannel24.png" group-title="Ulusal",Kontra TV
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NET Europe TV" tvg-logo="https://static.wixstatic.com/media/ed2185_49b0814e851049c8a3fa4add794b0dea~mv2.png/v1/fill/w_124,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NETV%20EUROPE%20NEW%20LOGO.png" group-title="Ulusal",NET Europe TV
+https://neon.streams.gr:8081/netveurope/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vergina" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="Ulusal",Vergina
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ecclesia TV" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="Ulusal",Ecclesia TV
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star K.E." tvg-logo="https://i.imgur.com/aeTDm6z.png" group-title="Ulusal",Star K.E.
+http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star B.E." tvg-logo="https://www.startvfm.gr/wp-content/uploads/2017/10/star-voreiou-ellados.png" group-title="Ulusal",Star B.E.
+https://gra1.crystalweb.net:1936/star/star/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 100" tvg-logo="https://i.imgur.com/OBH2DfE.png" group-title="Ulusal",TV 100
+https://panel.gwebstream.eu:19360/tv100skg/480p.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENA Channel" tvg-logo="https://i.imgur.com/3g3yjAq.png" group-title="Ulusal",ENA Channel
+https://cdn5.smart-tv-data.com/ena/ena_channel/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epirus TV 1" tvg-logo="https://www.epirustv1.eu/img/logo.png" group-title="Ulusal",Epirus TV 1
+https://rtmp.win:3929/live/epiruslive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stent TV" tvg-logo="https://stent.net.gr/wp-content/themes/whsk_stent/common/imgs/stentv_logo.png" group-title="Ulusal",Stent TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Stent.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ART TV" tvg-logo="https://i.imgur.com/8uS0sib.png" group-title="Ulusal",ART TV
+https://rtmp.win:3696/live/arttvgrlive.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kosmos TV" tvg-logo="https://i.imgur.com/NrXQOE7.png" group-title="Ulusal",Kosmos TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syros TV 1" tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="Ulusal",Syros TV 1
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ionian TV" tvg-logo="https://ioniantv.gr/wp-content/uploads/2019/09/ionian.png" group-title="Ulusal",Ionian TV
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Krhth TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/KRHTH_TV_-_Crete_Tv.png" group-title="Ulusal",Krhth TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kos TV" tvg-logo="https://www.kostv.gr/templates/reach/public/img/logo.png" group-title="Ulusal",Kos TV
+https://eu1.streams.gr:8081/kostv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thrakinet TV" tvg-logo="https://schoolpress.sch.gr/dimosiografoiendrasei/files/2023/05/THRAKINET.png" group-title="Ulusal",Thrakinet TV
+http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pontos TV" tvg-logo="https://i.imgur.com/E7BttDs.png" group-title="Ulusal",Pontos TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PontosTv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aeolos TV" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Ulusal",Aeolos TV
+http://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRD Channel" tvg-logo="https://grdiscovery.com/wp-content/uploads/2025/08/social-1.png" group-title="Ulusal",GRD Channel
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/GrdChannel.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pluton TV" tvg-logo="https://plutontv.live/wp-content/uploads/2021/06/LOGO12-2.png" group-title="Ulusal",Pluton TV
+https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destination Greece TV" tvg-logo="https://i.imgur.com/CDfn4BJ.png" group-title="Ulusal",Destination Greece TV
+https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athens Geo TV" tvg-logo="https://i.imgur.com/X11CsYq.png" group-title="Ulusal",Athens Geo TV
+https://pro.free.hr:3236/stream/play.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samiaki TV" tvg-logo="https://samiaki.tv/wp-content/uploads/2024/08/sat-logo.png" group-title="Ulusal",Samiaki TV
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Notioi TV" tvg-logo="https://i.imgur.com/Nq00n8h.png" group-title="Ulusal",Notioi TV
+https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Sky" tvg-logo="https://i.imgur.com/C9CormG.png" group-title="Ulusal",Blue Sky
+http://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANT1 Comedy" tvg-logo="https://i.imgur.com/kY3JBeC.png" group-title="Sinema",ANT1 Comedy
+https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANT1 Drama" tvg-logo="https://i.imgur.com/nwHm8qx.png" group-title="Sinema",ANT1 Drama
+https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sierra Channel" tvg-logo="https://i.imgur.com/6R2qs54.png" group-title="Sinema",Sierra Channel
+https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netmax TV" tvg-logo="https://netmaxtv.com/wp-content/uploads/2023/09/ALLWHITELOGO.png" group-title="Sinema",Netmax TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Classics" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Greek_Cinema_Channel.png" group-title="Sinema",Cinema Classics
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Groovy" tvg-logo="https://i.imgur.com/ZYNQuf1.png" group-title="Sinema",Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Village World" tvg-logo="https://i.imgur.com/WftpxK2.png" group-title="Sinema",Village World
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ellas World" tvg-logo="https://ellastvmax.com/wp-content/uploads/2022/01/ellastvmaxlogo.png" group-title="Sinema",Ellas World
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extacy TV" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/011/571/352/small/circle-flag-of-greece-free-png.png" group-title="Sinema",Extacy TV
+https://eu1.servers10.com:8081/8238/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Open Hybrid" tvg-logo="https://i.imgur.com/SZd0EJn.png" group-title="Spor",Open Hybrid
+https://opentvlive2.siliconweb.com/tvopengames/live2_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="Spor",ERT Sports 1
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtSports.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT Sports 2" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="Spor",ERT Sports 2
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtSports2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT Sports 3" tvg-logo="https://i.imgur.com/HbXg3li.png" group-title="Spor",ERT Sports 3
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ErtSports3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stoixima Lepto" tvg-logo="https://i.imgur.com/znUTlWs.png" group-title="Spor",Stoixima Lepto
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportal 1" tvg-logo="https://www.ringier.com/wp-content/uploads/2023/01/sportal-Webseite.png" group-title="Spor",Sportal 1
+https://telmaco-cdn.akamaized.net/service1/default/index.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportal 2" tvg-logo="https://www.ringier.com/wp-content/uploads/2023/01/sportal-Webseite.png" group-title="Spor",Sportal 2
+https://telmaco-cdn.akamaized.net/service2/default/index.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportal 3" tvg-logo="https://www.ringier.com/wp-content/uploads/2023/01/sportal-Webseite.png" group-title="Spor",Sportal 3
+https://telmaco-cdn.akamaized.net/service3/default/index.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportal 4" tvg-logo="https://www.ringier.com/wp-content/uploads/2023/01/sportal-Webseite.png" group-title="Spor",Sportal 4
+https://telmaco-cdn.akamaized.net/service4/default/index.m3u8 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfa Sports TV Cyprus" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="Spor",Alfa Sports TV Cyprus
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/AlfaSportsCy.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK 1 Radio" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/1._rik-radio-1_logo.original.png" group-title="Radyo/Müzik",RIK 1 Radio
+https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK 2 Radio" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2._rik-radio-2_logo_2.original.png" group-title="Radyo/Müzik",RIK 2 Radio
+https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK 3 Radio" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/3._rik-radio-3_logo.original.png" group-title="Radyo/Müzik",RIK 3 Radio
+https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RIK 4 Radio" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/4._rik-radio-4_logo_2.original.png" group-title="Radyo/Müzik",RIK 4 Radio
+https://r1.cloudskep.com/cybcr/cybc4/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAD TV" tvg-logo="https://i.imgur.com/W3sGgWd.png" group-title="Radyo/Müzik",MAD TV
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAD World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg" group-title="Radyo/Müzik",MAD World
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klik FM Cyprus" tvg-logo="https://www.klikfm.com.cy/template/img/logos/klikfmlogo.png" group-title="Radyo/Müzik",Klik FM Cyprus
+https://cdn.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRG 91" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Radyo/Müzik",NRG 91
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NrgTV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extacy TV Music" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/011/571/352/small/circle-flag-of-greece-free-png.png" group-title="Radyo/Müzik",Extacy TV Music
+https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Music TV" tvg-logo="https://i.imgur.com/YbSjMFH.png" group-title="Radyo/Müzik",Real Music TV
+https://webtv.topwebhost.gr:3302/stream/play.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Play TV" tvg-logo="https://i.imgur.com/100uuWA.png" group-title="Radyo/Müzik",Play TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/PlayTv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Rythmos TV" tvg-logo="https://rythmos.com.au/wp-content/uploads/2017/09/logo_rythmos.png" group-title="Radyo/Müzik", Rythmos TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/RythmosAu.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" V2BEAT Live" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" group-title="Radyo/Müzik", V2BEAT Live
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/V2Beat.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/413Mb8j.png" group-title="Radyo/Müzik",Kiss TV
+https://livestream.siliconweb.com/live/kissfm/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOW 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/NOW_70s.png" group-title="Radyo/Müzik",NOW 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOW 80's" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Radyo/Müzik",NOW 80's
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Now80s.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOW Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Radyo/Müzik",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baraza TV Greek" tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="Radyo/Müzik",Baraza TV Greek
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baraza TV Laika" tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="Radyo/Müzik",Baraza TV Laika
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT Kids Ⓥ" tvg-logo="https://i.imgur.com/XkSR66q.png" group-title="Çocuk",ERT Kids Ⓥ
+http://hbbtvapp.ert.gr/stream.php/v/vid_kidstv-hbbtv_mpeg.2ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extacy TV Kids" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/011/571/352/small/circle-flag-of-greece-free-png.png" group-title="Çocuk",Extacy TV Kids
+https://eu1.servers10.com:8081/8046/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids TV Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="Çocuk",Kids TV Cyprus
+http://65.108.62.57:8080/live4/kidshd.m3u8
