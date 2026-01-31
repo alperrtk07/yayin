@@ -71,3 +71,5 @@ https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="https://picserve.netplus.ch/channels/mezzo.png",Mezzo
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
