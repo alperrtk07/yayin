@@ -85,7 +85,7 @@ https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/3UppN5P.png",Stingray CMusic
+#EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/syB1XDN.png",Movie Music by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Stingray Ambiance" tvg-logo="https://i.imgur.com/GKc7RFz.png",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
