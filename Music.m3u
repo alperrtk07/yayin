@@ -35,7 +35,7 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG 91
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-name="MAD TV" tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3sGgWd.png",MAD TV
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/tw_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DUprIW.png",Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
@@ -64,7 +64,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KMltQ5N.png",Rebel
 http://88.212.7.14/live/test_rebel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-name="1Mus",1Mus 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png",1Mus 
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
