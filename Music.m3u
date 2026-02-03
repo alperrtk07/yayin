@@ -29,7 +29,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/bridgeclassictvya.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" tvg-name="V2Beat TV",V2Beat TV
+#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wgxuYsQ.png",Fun Radio
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
