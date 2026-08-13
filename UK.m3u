@@ -4,7 +4,7 @@ http://41.205.93.154/BBCONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xmgoK9.png",BBC Two
 http://41.205.93.154/BBCTWO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png",ITV1
-
+http://41.180.140.146:4203/bysid/20810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png",ITV2
 http://185.19.191.4:8090/ITV2/index.m3u8
 http://185.19.191.181:8090/ITV2/index.m3u8
@@ -80,7 +80,7 @@ https://live-virginmedia.simplestreamcdn.com/out/v1/426d7a9e942b4f64917d66940bd3
 #KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
 https://live-virginmedia.simplestreamcdn.com/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uZSZdS.png",RTE One
-
+http://41.180.140.146:4200/bysid/2101
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png",RTE2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOUSWXc.png",BBC One Scotland
