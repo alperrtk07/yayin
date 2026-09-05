@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUSX0rX.png",Pervyy Kanal
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAyVG0Y.png",Russia-1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaWlnjZ.png",OTR
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/otr.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -39,14 +39,15 @@ https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsk8PpB.png",Subbota!
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilUzAeb.png",STS
-http://94.230.128.107:8080/CTC/index.m3u8
-https://streaming.goodstream.icu/live/296.m3u8
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/ren-tv.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://streaming.skynetconnect.co.za/live/296.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/prnk-tv.png",PRNK TV
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tolk.png",Тolk
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y2RRnLb.png" user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",Russia-24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5HzA6J.png",Izvestia
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dj9c8Yd.png",Mir 24
@@ -62,11 +63,11 @@ http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXOz2d9.png",Nasha Sibir
 https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1nQLGI.png" user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",Russia-K
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W7ste2f.png",Unknown Russia
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
-https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
+#https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/istoria.png",Istoriya
 #http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png",Zvezda
@@ -79,12 +80,6 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBVZoDd.png",STS Love
 #http://194.143.148.28:8080/CTC_LOVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2jDgH9.png",Dom Kino
 #EXTVLCOPT:https://televizor24tochka.ru/tv/dom-kino.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
